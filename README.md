@@ -18,3 +18,4 @@ In this project, we are going to build a Sleep Sensing and Alerting System for D
 * Scipy
 * Numpy
 * Imutils
+* In driverdrowsy.py under prediction path replace the path of shape_predictor_68_face_landmarks.dat
